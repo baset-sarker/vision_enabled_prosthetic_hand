@@ -7,9 +7,11 @@ Video demonstration: https://www.youtube.com/watch?v=yInMzl4Ef7A
 <b>Keywords:</b> Amputee · AI · Camera · Vision · Prosthetic Hand · Google Coral · 3D print
 
 ![Prosthetic Hand](images/fig2_3d.png)
+
 Figure : 3D Design of Vision-Enabled Sensorized Prosthetic Hand
 
 ![Prosthetic Hand](images/fig1.png)
+
 Figure: (left) shows the front side of the working prototype of Vision Controlled Sensorized Prosthetic hand: (a) Camera, (b) Distance sensor, (c) Pressure sensor (FSR), (d) accelerometer (hidden inside) (e) Tendon wire. and the image (right) is the backside showing the electronic circuit and servo motor assembly
 
 ## Use mdt to push code 
