@@ -1,4 +1,4 @@
-# Vision Enabled prosthetic hand
+# Vision Controlled Sensorized Prosthetic Hand
 This paper presents a sensorized vision-enabled prosthetic hand aimed at replicating a natural hand’s performance, functionality, appearance, and comfort. The design goal was to create an accessible substitution with a userfriendly interface requiring little to no training. Our mechanical hand uses a camera and embedded processors to perform most of these tasks. The interfaced pressure sensor is used to get pressure feedback and ensure a safe grasp of the object; an accelerometer is used to detect gestures and release the object. Unlike current EMG-based designs, the prototyped hand does not require personalized training. The details of the design, tread-off, results, and informing the next iteration are presented in this paper.
 
 Video demonstration: https://www.youtube.com/watch?v=yInMzl4Ef7A
