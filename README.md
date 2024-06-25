@@ -24,7 +24,6 @@ mdt push /home/baset/Activity/clarkson/pChallange2022/precedent-challange-2022/m
 ## Install dependency 
 ```
 sudo apt-get install python3-dev
-pip3 install smbus
 pip3 install smbus 
 ```
 
