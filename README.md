@@ -16,9 +16,9 @@ Figure: (left) shows the front side of the working prototype of Vision Controlle
 
 ## Use mdt to push code 
 ``` 
-mdt push /home/baset/Activity/clarkson/pChallange2022/precedent-challange-2022 /home/mendel/
+mdt push /path/to/code /home/mendel/
 
-mdt push /home/baset/Activity/clarkson/pChallange2022/precedent-challange-2022/model /home/mendel/precedent-challange-2022/
+mdt push /path/to/code /home/mendel/precedent-challange-2022/
 ```
 
 ## Install dependency 
