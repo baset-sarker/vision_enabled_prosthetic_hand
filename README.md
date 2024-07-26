@@ -38,5 +38,15 @@ pip3 install smbus
   address   = {Albany, NY, USA}
 }
 
+@misc{visionhand,
+      doi = {10.5281/ZENODO.7789328},
+      url = {https://zenodo.org/record/7789328},
+      author = {M. A. Baset Sarker},
+      title = {Vision based prosthetic hand},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      year = {2022},
+}
+
 ```
 
