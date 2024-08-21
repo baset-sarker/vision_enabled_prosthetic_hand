@@ -27,7 +27,13 @@ sudo apt-get install python3-dev
 pip3 install smbus 
 ```
 
-# Cite the paper
+## Paper link: 
+https://arxiv.org/abs/2407.12807
+
+https://www.researchgate.net/publication/383177575_Vision_Controlled_Sensorized_Prosthetic_Hand
+
+
+## Cite the paper
 
 ```
 @inproceedings{BasetSarker2022,
@@ -36,6 +42,17 @@ pip3 install smbus
   booktitle = {Interdisciplinary Conference on Mechanics, Computers and Electronics (ICMECE) 2022},
   year      = {2022},
   address   = {Albany, NY, USA}
+}
+
+
+@misc{sarker2024visioncontrolledsensorizedprosthetic,
+      title={Vision Controlled Sensorized Prosthetic Hand}, 
+      author={Md Abdul Baset Sarker and Juan Pablo S. Sola and Aaron Jones and Evan Laing and Ernesto Sola-Thomas and Masudul H. Imtiaz},
+      year={2024},
+      eprint={2407.12807},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2407.12807}, 
 }
 ```
 
