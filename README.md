@@ -44,15 +44,5 @@ https://www.researchgate.net/publication/383177575_Vision_Controlled_Sensorized_
   address   = {Albany, NY, USA}
 }
 
-
-@misc{sarker2024visioncontrolledsensorizedprosthetic,
-      title={Vision Controlled Sensorized Prosthetic Hand}, 
-      author={Md Abdul Baset Sarker and Juan Pablo S. Sola and Aaron Jones and Evan Laing and Ernesto Sola-Thomas and Masudul H. Imtiaz},
-      year={2024},
-      eprint={2407.12807},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2407.12807}, 
-}
 ```
 
